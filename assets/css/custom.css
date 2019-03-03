@@ -1,0 +1,46 @@
+.subject{
+	margin:5px;
+}
+fieldset
+{
+    border: none;
+    padding:10px;
+    display:block;
+    clear:both;
+    margin:5px 0px;
+}
+input.fieldname
+{
+    float:left;
+    clear:left;
+    display:block;
+    margin:5px;
+}
+select.fieldtype
+{
+    float:left;
+    display:block;
+    margin:5px;
+}
+input.remove
+{
+    float:left;
+    display:block;
+    margin:5px;
+}
+#yourform label
+{
+    float:left;
+    clear:left;
+    display:block;
+    margin:5px;
+}
+#yourform input, #yourform textarea
+{
+    float:left;
+    display:block;
+    margin:5px;
+}
+.fieldwrapper{
+	width: 100%;
+}
